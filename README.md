@@ -8,6 +8,6 @@ Your goal now is now to come up with a model that can be used for three things:
 2. it should give a low (e.g. ten) dimensional description of the dataset in terms of the five modes of the distribution;
 3. it should be able to classify the remaining data points into the five classes.
 
-The assignment description can be found [here] (https://github.com/ahmetayrnc/Deep-Learning-04/blob/master/description.pdf)
+The assignment description can be found [here](https://github.com/ahmetayrnc/Deep-Learning-04/blob/master/description.pdf)
 
-The assignment report can be found here [here] (https://github.com/ahmetayrnc/Deep-Learning-04/blob/master/assignment_04_report.pdf)
+The assignment report can be found here [here](https://github.com/ahmetayrnc/Deep-Learning-04/blob/master/assignment_04_report.pdf)
